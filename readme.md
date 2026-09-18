@@ -23,22 +23,6 @@ This project implements a complete **AI-powered recommendation engine** that ana
 
 ---
 
-## 🚀 Live Demo
-
-[Click here to view live demo](your-deployment-url-here) *(Coming soon)*
-
-### Screenshots
-
-**Home Dashboard:**
-![Home Dashboard](screenshots/home.png)
-
-**User Recommendations:**
-![User Recommendations](screenshots/user_recs.png)
-
-**Model Performance:**
-![Performance](screenshots/performance.png)
-
----
 
 ## 📈 Results & Metrics
 
