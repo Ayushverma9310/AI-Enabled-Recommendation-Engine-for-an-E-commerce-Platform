@@ -252,21 +252,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
-
-**Himanshu Sharma**
-- GitHub: [@himanshuXsh](https://github.com/himanshuXsh)
-- LinkedIn: [Your LinkedIn](your-linkedin-url)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset: [RetailRocket E-commerce Dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
-- Inspiration: Netflix & Amazon recommendation systems
-- Framework: Streamlit for rapid prototyping
-- Mentorship: [Your Internship Company/Mentor Name]
 
 ---
 
